@@ -13,7 +13,7 @@ The [record editor](../src/RecordEditor.vue) creates its form and draft from the
 
 ## Run the browser tests
 
-From the repository root with Node.js 24 and npm:
+From the repository root with Node.js 24 or 26 and npm:
 
 ```sh
 npm ci

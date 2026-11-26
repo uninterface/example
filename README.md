@@ -4,7 +4,7 @@ Uninterface example is a standalone Vue/Vite app. Its first example is an expens
 
 ## Run it
 
-Use Node.js 24 and npm. From this repository's root:
+Use Node.js 24 or 26 and npm. From this repository's root:
 
 ```sh
 npm ci
